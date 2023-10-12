@@ -8,6 +8,7 @@ public class Directeur{
     }
 
     public void construire(){
+        monteurPizza.creerNouvellePizza();
         monteurPizza.monterPate();
         monteurPizza.monterSauce();
         monteurPizza.monterGarniture();

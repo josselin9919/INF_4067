@@ -18,7 +18,7 @@ public class Pizza {
 
     public void print(){
         System.out.println(this.toString());
-        System.out.println("Pate"+pate+"\nSauce = "+sauce+"\nGarniture = "+garniture);
+        System.out.println("Pate = "+pate+"\nSauce = "+sauce+"\nGarniture = "+garniture);
     }
     
 }
