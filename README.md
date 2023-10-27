@@ -9,8 +9,19 @@
     2.3. [patron Builder](##patron_builder)
     2.4. [patron Singleton](##patronde_Singleton)
 3. [patron de comportement](#patron_de_comportement)
-2.1. [patron Adapter](##patron_Adapter)
+    2.1. [patron Adapter](##patron_Adapter)
 
 
 4. [patron de structuration](#patron_de_structuration)
 
+### Information Generale
+***
+Un patron de conception (Design Pattern) est une solution à un problème récurrent dans un
+contexte donné. On peut considérer un patron de conception comme une formalisation de
+bonnes pratiques, ce qui signifie qu'on privilégie les solutions éprouvées.
+Les patrons de conception suivent un format particulier :
+_ Une description du problème avec un exemple concret et une solution qui lui est spécifique
+_ Un résumé des choses à considérer pour formuler une solution générale
+_ La solution générale
+_ Les conséquences positives et négatives de l’utilisation de la solution
+_ Une liste des patrons qui sont liés
