@@ -27,3 +27,23 @@ Les patrons de conception suivent un format particulier :
 * La solution générale
 * Les conséquences positives et négatives de l’utilisation de la solution
 * Une liste des patrons qui sont liés
+
+### Patron de construction
+***
+les patrons de structuration etudier dans ce projet  sont:
+#### patron factory
+***
+
+ce patron de conception permettant de prendre en charge et d’uniformiser l’instanciation de tous les objets d’une interface.
+pour illustrer cela nous allons etudier un cas pratique de notre
+
+#### patron abstractFactory
+***
+
+
+#### patron builder
+***
+
+
+#### patron Singleton
+***
