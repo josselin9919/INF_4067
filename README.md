@@ -21,9 +21,9 @@ contexte donné. On peut considérer un patron de conception comme une formalisa
 bonnes pratiques, ce qui signifie qu'on privilégie les solutions éprouvées.
 Les patrons de conception suivent un format particulier :
 
-> Une description du problème avec un exemple concret et une solution qui lui est spécifique
+* Une description du problème avec un exemple concret et une solution qui lui est spécifique
 
-> Un résumé des choses à considérer pour formuler une solution générale
-> La solution générale
-> Les conséquences positives et négatives de l’utilisation de la solution
-> Une liste des patrons qui sont liés
+* Un résumé des choses à considérer pour formuler une solution générale
+* La solution générale
+* Les conséquences positives et négatives de l’utilisation de la solution
+* Une liste des patrons qui sont liés
