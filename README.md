@@ -9,5 +9,8 @@
     2.3. [patron Builder](##patron_builder)
     2.4. [patron Singleton](##patronde_Singleton)
 3. [patron de comportement](#patron_de_comportement)
+2.1. [patron Adapter](##patron_Adapter)
+
+
 4. [patron de structuration](#patron_de_structuration)
 
