@@ -1,10 +1,10 @@
 # INF_4067
 
 ## Table of Contents
-1. [Information Generale](#general-info)
-2. [Technologies](#technologies)
 ***
-1. [Information ](#info)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+1. [Information Generale](#information_generale)
+2. [patron de construction](#patron_de_construction)
+2. [patron factory](##patron_de_construction)
+3. [patron de comportement](#patron_de_comportement)
+4. [patron de structuration](#patron_de_structuration)
+

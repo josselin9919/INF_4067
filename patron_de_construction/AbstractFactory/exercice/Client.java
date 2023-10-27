@@ -8,6 +8,7 @@ public class Client {
 
         ProduitA produitA = null;
         ProduitB produitB = null;
+        
         System.out.println("Utilisation de la premiere fabrique");
         
         produitA = produitFactory1.getProduitA();
