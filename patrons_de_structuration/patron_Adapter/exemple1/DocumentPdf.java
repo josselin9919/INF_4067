@@ -15,7 +15,10 @@ public class DocumentPdf implements Document{
 
     public int dessine() {
         try {
-            return 1;
+            int pdf =outilpdf.pdfPrepareAffichage();
+            pdf =outilpdf.pdfRafraichir();
+            pdf =outilpdf.pdfTermineAffichage();
+            return pdf ;
         } catch (Exception e) {
             return 0;
         }
