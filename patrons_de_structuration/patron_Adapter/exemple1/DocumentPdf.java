@@ -1,21 +1,32 @@
 package patrons_de_structuration.patron_Adapter.exemple1;
 
 public class DocumentPdf implements Document{
+    public ComposantPdf outilpdf=new ComposantPdf();
 
-    
-    public int setContenu() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'setContenu'");
+    public int setContenu(String contenu) {
+        try {
+            
+            return outilpdf.pdfFixeContenu(contenu);
+        } catch (Exception e) {
+            return 0;
+        }
+        
     }
 
     public int dessine() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'dessine'");
+        try {
+            return 1;
+        } catch (Exception e) {
+            return 0;
+        }
     }
 
     public int imprime() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'imprime'");
+        try {
+            return outilpdf.pdfEnvoieImprimante();
+        } catch (Exception e) {
+            return 0;
+        }
     }
     
 }
