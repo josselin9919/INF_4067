@@ -21,6 +21,15 @@ public class DList {
         list.prec=ob;
         list=ob;
     }
+    public void insertTail(Object o){
+        DNode ob=new DNode();
+        ob=list;
+        while(ob.suiv!=null){
+            ob=ob.suiv;
+        }
+        ob.suiv.elem=o;
+        
+    }
 
     public Object removeHead(){
         Object ob=new Object();
