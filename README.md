@@ -2,14 +2,14 @@
 
 ## Table of Contents
 ***
-1. [Information Generale](###information_generale)
-2. [patron de construction](###patron_de_construction)
-    2.1. [patron factory](####patron_factory)
-    2.2. [patron abstractFactory](####patron_abstractFactory)
-    2.3. [patron Builder](####patron_builder)
-    2.4. [patron Singleton](####patronde_Singleton)
-3. [patron de comportement](###patron_de_comportement)
-    2.1. [patron Adapter](####patron_Adapter)
+1. [Information Generale](#information-generale)
+2. [patron de construction](#patron-de-construction)
+    2.1. [patron factory](##patron-factory)
+    2.2. [patron abstractFactory](##patron-abstractFactory)
+    2.3. [patron Builder](##patron-builder)
+    2.4. [patron Singleton](##patronde-Singleton)
+3. [patron de comportement](#patron-de-comportement)
+    2.1. [patron Adapter](##patron-Adapter)
 
 
 4. [patron de structuration](#patron_de_structuration)
