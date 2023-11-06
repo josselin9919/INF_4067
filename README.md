@@ -4,12 +4,12 @@
 ***
 1. [Information Generale](#information-generale)
 2. [patron de construction](#patron-de-construction)
-    2.1. [patron factory](##patron-factory)
-    2.2. [patron abstractFactory](##patron-abstractFactory)
-    2.3. [patron Builder](##patron-builder)
-    2.4. [patron Singleton](##patronde-Singleton)
+    2.1. [patron factory](#patron-factory)
+    2.2. [patron abstractFactory](#patron-abstractFactory)
+    2.3. [patron Builder](#patron-builder)
+    2.4. [patron Singleton](#patronde-Singleton)
 3. [patron de comportement](#patron-de-comportement)
-    2.1. [patron Adapter](##patron-Adapter)
+    2.1. [patron Adapter](#patron-Adapter)
 
 
 4. [patron de structuration](#patron_de_structuration)
